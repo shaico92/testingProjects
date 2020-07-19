@@ -18,8 +18,12 @@
     color:  black;
 }
 
-.Blog a:hover,
-.Blog a:active{
+.Blog a:hover{
     text-decoration: none;
     color:  crimson;
 }
+.Blog a.my-shai{
+    text-decoration: none;
+    color:  blue;
+}
+
